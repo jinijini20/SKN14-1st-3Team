@@ -1,6 +1,7 @@
 # 🚗 목적지 주변 주차장 검색 서비스 🚗
 
 ## 팀명
+### **주차장 찾아조!**
 
 ## 팀원 소개
 | 팀장                                                                                                                                                                                            | 팀원                                                                                                                                                                                               | 팀원                                                                                                                                                                                                   | 팀원                                                                                                                                                                                                   | 팀원                                                                                                                                                                                                    |
@@ -43,13 +44,13 @@ https://www.segye.com/newsView/20210111513455
 
 ## 2. 프로젝트 구성
 ### 2.1. 기술 스택
-| 분류 | 기술 |
-|------|------|
-| 언어 | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
-| 데이터 fetching | <img src="https://img.shields.io/badge/KaKao-Rest%20API-yellow?style=for-the-badge&label=KaKao&color=yellow"> |
-| 데이터저장 | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
-| 데이터 시각화 | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> |
-| 화면구현 | <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/figma%20-%20purple?style=for-the-badge&logo=figma&logoColor=white&color=purple">|
+| 분류      | 기술                                                                                                                                                                                                                                   |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 언어      | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">                                                                                                                               |
+| 데이터 수집  | <img src="https://img.shields.io/badge/KaKao-Rest%20API-yellow?style=for-the-badge&label=KaKao&color=yellow"> <img src="https://img.shields.io/badge/selenium-4479A1?style=for-the-badge&logo=selenium&logoColor=white">                                                                                                                       |
+| 데이터저장   | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">                                                                                                                                 |
+| 데이터 시각화 | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">                                                                                                                               |
+| 화면구현    | <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/figma%20-%20purple?style=for-the-badge&logo=figma&logoColor=white&color=purple"> |
 
 ### 2.2. 기능적 요구사항
 |ID|요구사항 설명|
