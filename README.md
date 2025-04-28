@@ -51,14 +51,7 @@ https://www.segye.com/newsView/20210111513455
 | 데이터 시각화 | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> |
 | 화면구현 | <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/figma%20-%20purple?style=for-the-badge&logo=figma&logoColor=white&color=purple">|
 
-### 2.2. 프로젝트 구조
-```
-SKN13-1st-3Team
-├── README.md
-├──
-```
-
-### 2.3. 기능적 요구사항
+### 2.2. 기능적 요구사항
 |ID|요구사항 설명|
 |------|---|
 |FR-01|사용자는 목적지 주소 또는 키워드를 입력할 수 있어야 함|
@@ -68,7 +61,7 @@ SKN13-1st-3Team
 |FR-05|사용자는 주차장 세부 정보를 클릭해 상세 페이지(요금표, 운영시간 등)을 확인할 수 있어야 함|
 |FR-06|시스템은 사용자가 과거 검색한 기록(최근 검색)을 저장하고 추천할 수 있어야함|
 
-### 2.4. 비기능적 요구사항
+### 2.3. 비기능적 요구사항
 |ID|요구사항 설명|
 |------|---|
 |NFR-01|서비스 화면은 직관적이고 사용자가 쉽게 조작할 수 있어야 함|
@@ -94,6 +87,7 @@ SKN13-1st-3Team
 ## 4. 서비스 화면 구성
 
 ## 5. 데이터 관리 (ERD)
+![parking erd](docs/parking_erd.png)
 
 ## 팀원 프로젝트 회고
 | 이름 | 회고 |
