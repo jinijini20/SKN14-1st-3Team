@@ -1,12 +1,13 @@
 # 🚗 목적지 주변 주차장 검색 서비스 🚗
 
 ## 팀명
+### **주차장 찾아조!**
 
 ## 팀원 소개
-| 팀장 | 팀원 | 팀원 | 팀원 | 팀원 |
-|------|------|------|------|------|
-| <img src="./image/지우.webp" width="100" height="100"> <br> 하종수 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ha1153) | <img src="./image/고라.png" width="100" height="100"> <br> 강윤구 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dbsrn09) | <img src="./image/알통.png" width="100" height="100"> <br> 이승혁 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dreamwars99) | <img src="./image/푸린.png" width="100" height="100"> <br> 이재혁 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jayHuggie) | <img src="./image/꼬부기.png" width="100" height="100"> <br> 이원지희 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jinijini20) |
-| System Integratore | Fetching | Fetching | UI / FE  | Database |
+| 팀장                                                                                                                                                                                            | 팀원                                                                                                                                                                                               | 팀원                                                                                                                                                                                                   | 팀원                                                                                                                                                                                                   | 팀원                                                                                                                                                                                                    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="./images/red.png" width="100" height="80"> <br> 하종수 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ha1153) | <img src="./images/pink.png" width="100" height="80"> <br> 강윤구 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dbsrn09) | <img src="./images/blue.png" width="100" height="80"> <br> 이승혁 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dreamwars99) | <img src="./images/yellow.png" width="100" height="80"> <br> 이재혁 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jayHuggie) | <img src="./images/green.png" width="100" height="80"> <br> 이원지희 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jinijini20) |
+| System Integrator                                                                                                                                                                             | Fetching                                                                                                                                                                                         | Fetching                                                                                                                                                                                             | UI / FE                                                                                                                                                                                              | Database                                                                                                                                                                                              |
 
 ## :memo:목차
 - 프로젝트 개요
@@ -43,22 +44,15 @@ https://www.segye.com/newsView/20210111513455
 
 ## 2. 프로젝트 구성
 ### 2.1. 기술 스택
-| 분류 | 기술 |
-|------|------|
-| 언어 | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
-| 데이터 fetching | <img src="https://img.shields.io/badge/KaKao-Rest%20API-yellow?style=for-the-badge&label=KaKao&color=yellow"> |
-| 데이터저장 | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
-| 데이터 시각화 | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> |
-| 화면구현 | <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/figma%20-%20purple?style=for-the-badge&logo=figma&logoColor=white&color=purple">|
+| 분류      | 기술                                                                                                                                                                                                                                   |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 언어      | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">                                                                                                                               |
+| 데이터 수집  | <img src="https://img.shields.io/badge/KaKao-Rest%20API-yellow?style=for-the-badge&label=KaKao&color=yellow"> <img src="https://img.shields.io/badge/selenium-4479A1?style=for-the-badge&logo=selenium&logoColor=white">                                                                                                                       |
+| 데이터저장   | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">                                                                                                                                 |
+| 데이터 시각화 | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">                                                                                                                               |
+| 화면구현    | <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/figma%20-%20purple?style=for-the-badge&logo=figma&logoColor=white&color=purple"> |
 
-### 2.2. 프로젝트 구조
-```
-SKN13-1st-3Team
-├── README.md
-├──
-```
-
-### 2.3. 기능적 요구사항
+### 2.2. 기능적 요구사항
 |ID|요구사항 설명|
 |------|---|
 |FR-01|사용자는 목적지 주소 또는 키워드를 입력할 수 있어야 함|
@@ -68,7 +62,7 @@ SKN13-1st-3Team
 |FR-05|사용자는 주차장 세부 정보를 클릭해 상세 페이지(요금표, 운영시간 등)을 확인할 수 있어야 함|
 |FR-06|시스템은 사용자가 과거 검색한 기록(최근 검색)을 저장하고 추천할 수 있어야함|
 
-### 2.4. 비기능적 요구사항
+### 2.3. 비기능적 요구사항
 |ID|요구사항 설명|
 |------|---|
 |NFR-01|서비스 화면은 직관적이고 사용자가 쉽게 조작할 수 있어야 함|
@@ -94,6 +88,7 @@ SKN13-1st-3Team
 ## 4. 서비스 화면 구성
 
 ## 5. 데이터 관리 (ERD)
+![parking erd](docs/parking_erd.png)
 
 ## 팀원 프로젝트 회고
 | 이름 | 회고 |
