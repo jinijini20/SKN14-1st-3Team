@@ -50,7 +50,7 @@ https://www.segye.com/newsView/20210111513455
 | 데이터 수집  | <img src="https://img.shields.io/badge/KaKao-Rest%20API-yellow?style=for-the-badge&label=KaKao&color=yellow"> <img src="https://img.shields.io/badge/selenium-4479A1?style=for-the-badge&logo=selenium&logoColor=white">                                                                                                                       |
 | 데이터저장   | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">                                                                                                                                 |
 | 데이터 시각화 | <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">                                                                                                                               |
-| 화면구현    | <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/figma%20-%20purple?style=for-the-badge&logo=figma&logoColor=white&color=purple"> |
+| 화면구현    | <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">|
 
 ### 2.2. 기능적 요구사항
 |ID|요구사항 설명|
@@ -86,15 +86,18 @@ https://www.segye.com/newsView/20210111513455
 - 목적지와의 거리 오름차순 정렬
 
 ## 4. 서비스 화면 구성
+![signup](images/signup_image.png)
+![login](images/login_image.png)
+![main](images/main_image.png)
 
 ## 5. 데이터 관리 (ERD)
 ![parking erd](docs/parking_erd.png)
 
 ## 팀원 프로젝트 회고
-| 이름 | 회고 |
-|------|------|
-| **종수** | |
-| **윤구** | 프로젝트 흐름을 파악하고 구상하는 과정에서 ChatGPT를 활용해 방향성을 빠르게 잡을 수 있어 도움이 됐다. 단순 구현이 아닌 구조 이해에 집중할 수 있었다. |
-| **승혁** | |
-| **재혁** | |
-| **지희** | |
+| 이름      | 회고                                                                                                                                                                                                                                                                                                                                            |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **종수**  | 모든 팀원들이 각자의 역할들을 충분히 함으로써 프로젝트가 빠른 기간내에 잘 마무리 될 수 있었습니다. 지금까지의 배운 내용들을 모두 사용할 수 있어서 굉장히 유익했다 생각하고 많은 협조를 해준 팀원들에게 감사합니다!                                                                                                                                                                                                                      |
+| **윤구**  | 프로젝트 흐름을 파악하고 구상하는 과정에서 ChatGPT를 활용해 방향성을 빠르게 잡을 수 있어 도움이 됐다. 단순 구현이 아닌 구조 이해에 집중할 수 있었다.                                                                                                                                                                                                                                                     |
+| **승혁**  | 짧지만 압축적인 학습 과정에서 배운 기술들을 총동원하여 직접 웹 서비스를 구현해보는 경험은 매우 값졌습니다. 눈에 보이는 결과물 뒤에서 수많은 코드와 데이터가 어떻게 유기적으로 작동하는지 이해하며 개발의 큰 그림을 볼 수 있게 되었습니다. 이 경험은 향후 더 복잡한 실전 프로젝트를 구상하는 데 훌륭한 밑거름이 될 것입니다. 모든 팀원의 적극적인 참여와 노력, 특히 어려울 때마다 든든한 길잡이가 되어주신 팀 리더님의 아낌없는 서포트 덕분에 프로젝트를 성공적으로 완수할 수 있었습니다. 혼자서는 결코 쉽지 않았을 과정을 함께하며 팀 프로젝트만의 강력한 시너지와 성취감을 깊이 느낄 수 있었습니다. |
+| **재혁**  | 프로젝트뿐만 아니라 이사 문제까지 겹쳐 멘탈, 체력, 시간 관리 모두 힘들었지만, 팀원들과 조장님께서 너그럽고 따뜻하게 이해해주신 덕분에 프로젝트를 잘 마무리할 수 있었습니다. 처음으로 웹 스크래핑으로 웹사이트를 만들어봤는데, 완성된 결과물을 보니 ‘와 이게 정말 되는구나’ 싶어 신기하면서도 뿌듯했습니다! 다시 한번 팀원분들께 감사의 말씀을 드립니다..★☆                                                                                                                                                                                                                                                                                                                                              |
+| **지희**  | 첫프로젝트인 만큼 부담감도 많이 컸는데 개발경험이 많은신 팀장님이 이끌어주시고 팀원분들도 각자 최선을 다해주셔서 좋은 결과가 나온것같습니다 제가 맡은 일을 하면서 많이 배워서 의미있는 프로젝트였습니다.                                                                                                                                                                                                                              |
